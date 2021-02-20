@@ -1,0 +1,9 @@
+name: BossbarBlocker
+version: ${project.version}
+main: me.imsrpanda.bossbarblocker.BossbarBlocker
+api-version: 1.13
+load: STARTUP
+depend:
+  - ProtocolLib
+authors: [ImSrPanda]
+description: Bossbar blocker
